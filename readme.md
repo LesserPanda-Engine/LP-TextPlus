@@ -1,6 +1,6 @@
-# LesserPanda Text+ Plugin
+# LesserPanda Text Extension
 
-Text+ is a wrapper of [pixi-cocoontext](https://github.com/JiDW/pixi-cocoontext), which
+TextPlus is a wrapper of [pixi-cocoontext](https://github.com/JiDW/pixi-cocoontext), which
 provide an optimized Text class for PIXI.js.
 
 ## Usage
@@ -16,11 +16,11 @@ new game.Text('We who wander this wasteland in search of our better selves?', {
 }, game.scale).addTo(container);
 ```
 
-## Note
+## ChangeLog
 
-This plugin is ONLY available for [LesserPanda](https://github.com/pixelpicosean/lesser-panda)
-instead of official [Panda.js Engine](https://github.com/ekelokorpi/panda.js-engine)
-since it requires PIXI.js v3+.
+### 0.1.0
+
+- Simple wrap without any modification
 
 ## License
 

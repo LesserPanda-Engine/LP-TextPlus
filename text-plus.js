@@ -1,5 +1,10 @@
+/**
+ * TextPlus extension for LesserPanda engine
+ * @version 0.1.0
+ * @author Sean Bohan
+ */
 game.module(
-  'plugins.text'
+  'plugins.text-plus'
 )
 .require(
   'engine.renderer'
