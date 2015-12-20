@@ -1,4 +1,4 @@
-# LesserPanda Text Extension
+# LesserPanda Text Extension (DEPRECATED)
 
 TextPlus is a wrapper of [pixi-cocoontext](https://github.com/JiDW/pixi-cocoontext), which
 provide an optimized Text class for PIXI.js.
